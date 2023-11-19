@@ -7,3 +7,6 @@ $ cd dopefolio
 
 # Remove current origin repository
 $ git remote remove origin
+
+# Install dependencies
+$ npm install
